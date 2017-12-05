@@ -1,0 +1,17 @@
+#begin {
+    color: black;
+    background-color: white;
+}
+#middle {
+    color: black;
+}
+#TiTe {
+    float: left;
+}
+#time {
+    float: left;
+}
+#text {
+    color: blue;
+    background-color: red;
+}
